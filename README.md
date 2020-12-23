@@ -29,6 +29,10 @@ xredis 依赖 hiredis ,  在使用xRedis前需要安装hiredis库
 ```bash
 sudo apt-get install libhiredis-dev
 ```
+在centos/redhat 系统上:
+```bash
+sudo yum install hiredis-devel
+```
 
 xRedis源码安装
 ```bash
