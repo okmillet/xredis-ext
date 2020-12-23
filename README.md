@@ -87,7 +87,7 @@ int main(int argc, char **argv) {
 ```
 
 更多使用示例
-使用示例 [examples]目录(https://github.com/bingyangok/xredis-ext/blob/master/examples)
+使用示例 [examples]目录(https://github.com/bingyangok/xredis-ext/tree/master/examples)
 
 demo.cpp              使用xredisclient访问单个redis节点示例
 demo_slice.cpp        使用xredisclient访问单组多分片(节点)redis分片集群示例
