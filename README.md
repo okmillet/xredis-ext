@@ -37,7 +37,7 @@ sudo yum install hiredis-devel
 xRedis源码安装
 ```bash
 git clone https://github.com/bingyangok/xredis-ext.git
-cd xredis
+cd xredis-ext
 make
 sudo make install
 ```
