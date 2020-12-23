@@ -1,6 +1,6 @@
 xRedis-ext
 ======
-详情请转至https://github.com/0xsky/xredis.git查看，在xredis基础上添加select功能。
+详情请转至 https://github.com/0xsky/xredis.git 查看，在xredis基础上添加select功能。
 
 Redis C++ client, support the data slice storage, support the connection pool
 
@@ -100,15 +100,3 @@ xRedisClusterClient_test.cpp  使用xRedisClusterClient实现简单的redis官�
 
 /test/xredis-test.cpp   多个redis命令的使用示例
 
-### 相关文档
-##### xRedis 分片存储架构图
-![xredis](http://xredis.0xsky.com/pic/xredis_0.png)
-<p>[xRedis API](http://xredis.0xsky.com/) 
-<p>使用示例 [examples](https://github.com/0xsky/xredis/blob/master/examples) directory for some examples
-<p>xRedis开源社区QQ群: 190107312
-
-<p><p>作者: xSky        
-<p>博客: <a href="http://www.0xsky.com/">xSky's Blog</a>
-<p>xRedis QQ 群: 190107312 
-<p>支持作者:
-<img src='https://www.0xsky.com/images/donate.png' alt='捐赠作者' height='120px'>
