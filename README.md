@@ -32,7 +32,7 @@ sudo apt-get install libhiredis-dev
 
 xRedis源码安装
 ```bash
-git clone https://github.com/0xsky/xredis
+git clone https://github.com/bingyangok/xredis-ext.git
 cd xredis
 make
 sudo make install
