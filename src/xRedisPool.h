@@ -9,7 +9,7 @@
 #ifndef _XREDIS_POOL_H_
 #define _XREDIS_POOL_H_
 
-#include "hiredis.h"
+#include <hiredis.h>
 #include "xLock.h"
 #include <string.h>
 #include <string>

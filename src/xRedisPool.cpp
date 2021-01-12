@@ -7,7 +7,6 @@
  */
 
 #include "xRedisPool.h"
-#include "hiredis.h"
 #include <time.h>
 
 using namespace xrc;

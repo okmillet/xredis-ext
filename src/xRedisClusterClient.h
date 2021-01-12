@@ -7,7 +7,7 @@
 #include <string>
 #include <list>
 #include <vector>
-#include "hiredis.h"
+#include <hiredis.h>
 #include "xLock.h"
 
 namespace xrc
